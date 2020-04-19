@@ -114,6 +114,9 @@ public class Agency {
             ordersChannel.basicPublish("generalExchange", carrierRoutingKey, null, order.getBytes(StandardCharsets.UTF_8));
 
             orderCounter = orderCounter + 1;
+
         }
+
     }
+
 }

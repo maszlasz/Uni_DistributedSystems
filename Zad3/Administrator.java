@@ -33,6 +33,7 @@ public class Administrator {
                 System.out.println("#SNOOPED: " + message);
 
                 snoopingChannel.basicAck(envelope.getDeliveryTag(), false);
+
             }
 
         };
@@ -76,6 +77,9 @@ public class Administrator {
             message = "#ADMIN: " + message;
 
             communicationChannel.basicPublish("generalExchange", routingKey, null, message.getBytes(StandardCharsets.UTF_8));
+
         }
+
     }
+
 }

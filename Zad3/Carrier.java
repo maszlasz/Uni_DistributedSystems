@@ -39,6 +39,7 @@ public class Carrier {
                     System.out.println("WRONG SPECIALIZATIONS");
                     
                 }
+
             } else {
                 
                 System.out.println("WRONG NUMBER OF SPECIALIZATIONS");
@@ -127,6 +128,7 @@ public class Carrier {
                 System.out.println(message);
 
                 communicationChannel.basicAck(envelope.getDeliveryTag(), false);
+
             }
             
         };

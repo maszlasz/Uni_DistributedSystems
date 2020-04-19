@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1agqdca2N4BPvQzO9aEBc7YO9jk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,25 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Z2_Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Z2_Producer" />
-      <module name="Zad3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Agency" />
       <item itemvalue="Application.Carrier" />
-      <item itemvalue="Application.Z2_Producer" />
       <item itemvalue="Application.Administrator" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Administrator" />
-        <item itemvalue="Application.Carrier" />
         <item itemvalue="Application.Agency" />
-        <item itemvalue="Application.Z2_Producer" />
+        <item itemvalue="Application.Carrier" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587167672811</updated>
       <workItem from="1587167675414" duration="5947000" />
-      <workItem from="1587211705877" duration="431000" />
+      <workItem from="1587211705877" duration="23771000" />
     </task>
     <servers />
   </component>
@@ -105,37 +99,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587169857150">
+    <state x="479" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587235407966">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="479" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1587169857150" />
+    <state x="479" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1587235407966" />
     <state x="757" y="385" key="FileChooserDialogImpl" timestamp="1587167983092">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="757" y="385" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1587167983092" />
-    <state width="2005" height="318" key="GridCell.Tab.0.bottom" timestamp="1587208871951">
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom" timestamp="1587316999326">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1587208871951" />
-    <state width="2005" height="318" key="GridCell.Tab.0.center" timestamp="1587208871950">
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999326" />
+    <state width="2005" height="184" key="GridCell.Tab.0.center" timestamp="1587316999326">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1587208871950" />
-    <state width="2005" height="318" key="GridCell.Tab.0.left" timestamp="1587208871950">
+    <state width="2005" height="184" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999326" />
+    <state width="2005" height="184" key="GridCell.Tab.0.left" timestamp="1587316999325">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1587208871950" />
-    <state width="2005" height="318" key="GridCell.Tab.0.right" timestamp="1587208871950">
+    <state width="2005" height="184" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999325" />
+    <state width="2005" height="184" key="GridCell.Tab.0.right" timestamp="1587316999326">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="318" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1587208871950" />
+    <state width="2005" height="184" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999326" />
+    <state width="2005" height="392" key="GridCell.Tab.1.bottom" timestamp="1587232556781">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1587232556781" />
+    <state width="2005" height="392" key="GridCell.Tab.1.center" timestamp="1587232556781">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.center/0.0.2048.1152@0.0.2048.1152" timestamp="1587232556781" />
+    <state width="2005" height="392" key="GridCell.Tab.1.left" timestamp="1587232556781">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.left/0.0.2048.1152@0.0.2048.1152" timestamp="1587232556781" />
+    <state width="2005" height="392" key="GridCell.Tab.1.right" timestamp="1587232556781">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.right/0.0.2048.1152@0.0.2048.1152" timestamp="1587232556781" />
     <state x="533" y="218" key="SettingsEditor" timestamp="1587167990982">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="533" y="218" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1587167990982" />
-    <state x="721" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1587211735168">
+    <state x="721" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1587320035870">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="721" y="399" key="com.intellij.ide.util.TipDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1587211735168" />
+    <state x="721" y="399" key="com.intellij.ide.util.TipDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1587320035870" />
+    <state x="593" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587223187564">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="593" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1587223187564" />
+    <state x="681" y="269" key="run.anything.popup" timestamp="1587312092342">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="681" y="269" key="run.anything.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1587312092342" />
   </component>
 </project>

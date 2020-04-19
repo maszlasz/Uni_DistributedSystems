@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e281ae61-a859-403e-bff3-d05203b96ff6" name="Default Changelist" comment="" />
+    <list default="true" id="e281ae61-a859-403e-bff3-d05203b96ff6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Agency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Carrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zad3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zad3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zad3/META-INF/Zad3.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1agqdca2N4BPvQzO9aEBc7YO9jk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
@@ -30,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Administrator">
+  <component name="RunManager" selected="Application.Carrier">
     <configuration name="Administrator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Administrator" />
       <module name="Zad3" />
@@ -59,9 +72,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Administrator" />
-        <item itemvalue="Application.Agency" />
         <item itemvalue="Application.Carrier" />
+        <item itemvalue="Application.Agency" />
+        <item itemvalue="Application.Administrator" />
       </list>
     </recent_temporary>
   </component>
@@ -89,6 +102,7 @@
       <updated>1587167672811</updated>
       <workItem from="1587167675414" duration="5947000" />
       <workItem from="1587211705877" duration="23771000" />
+      <workItem from="1587320032395" duration="337000" />
     </task>
     <servers />
   </component>
@@ -104,22 +118,22 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="757" y="385" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1587167983092" />
-    <state width="2005" height="184" key="GridCell.Tab.0.bottom" timestamp="1587316999326">
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom" timestamp="1587320176453">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="184" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999326" />
-    <state width="2005" height="184" key="GridCell.Tab.0.center" timestamp="1587316999326">
+    <state width="2005" height="184" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1587320176453" />
+    <state width="2005" height="184" key="GridCell.Tab.0.center" timestamp="1587320176453">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="184" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999326" />
-    <state width="2005" height="184" key="GridCell.Tab.0.left" timestamp="1587316999325">
+    <state width="2005" height="184" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1587320176453" />
+    <state width="2005" height="184" key="GridCell.Tab.0.left" timestamp="1587320176453">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="184" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999325" />
-    <state width="2005" height="184" key="GridCell.Tab.0.right" timestamp="1587316999326">
+    <state width="2005" height="184" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1587320176453" />
+    <state width="2005" height="184" key="GridCell.Tab.0.right" timestamp="1587320176453">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2005" height="184" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1587316999326" />
+    <state width="2005" height="184" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1587320176453" />
     <state width="2005" height="392" key="GridCell.Tab.1.bottom" timestamp="1587232556781">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -140,10 +154,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="533" y="218" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1587167990982" />
-    <state x="721" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1587211735168">
+    <state x="721" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1587320035870">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="721" y="399" key="com.intellij.ide.util.TipDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1587211735168" />
+    <state x="721" y="399" key="com.intellij.ide.util.TipDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1587320035870" />
     <state x="593" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587223187564">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
