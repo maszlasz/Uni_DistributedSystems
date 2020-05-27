@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<form action="data" method="post">
+    <label>CITY:</label>
+    <input type="text" name="city" required/>
+
+    <label>ICON:</label>
+    <input type="text" name="icon" required/>
+
+    <label>CURRENCY:</label>
+    <input type="text" name="currency" required/>
+
+
+    <button type="submit">
+        SUBMIT
+    </button>
+</form>
+
+<h3>USED APIS:</h3>
+https://openweathermap.org/ <br>
+https://github.com/skolakoda/programming-quotes-api <br>
+https://newsapi.org/ <br>
+https://exchangeratesapi.io/ <br>
+https://thenounproject.com/
+{% endblock %}

@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<h1>CURRENT WEATHER IN {{g.city}}:</h1>
+<table >
+  <tr>
+    <td>TEMPERATURE</td>
+    <td>{{g.temp}}</td>
+  </tr>
+  <tr>
+    <td>MIN TEMPERATURE</td>
+    <td>{{g.temp_min}}</td>
+  </tr>
+  <tr>
+    <td>MAX TEMPERATURE</td>
+    <td>{{g.temp_max}}</td>
+  </tr>
+  <tr>
+    <td>HUMIDITY</td>
+    <td>{{g.humidity}}</td>
+  </tr>
+  <tr>
+    <td>PRESSURE</td>
+    <td>{{g.pressure}}</td>
+  </tr>
+</table>
+
+<br><br>
+<h1>RANDOM PROGRAMMING QUOTE:</h1>
+<div>{{g.quote}} ~ {{g.quote_author}}</div>
+
+<br><br>
+<h1>LATEST NEWS:</h1>
+<div>
+    <h2>{{g.news_source}}</h2>
+    <h3>{{g.news_title}}</h3>
+    {{g.news_author}} <br>
+    {{g.news_description}}
+</div>
+
+<br><br>
+<h1>EXCHANGE RATE:</h1>
+<div>
+    1 EUR = {{g.exchange_rate}} {{g.currency}}
+</div>
+
+<center>
+    <img id="icon" src="" height="100" width="100"/>
+</center>
+<script>
+    document.getElementById("icon").src = {{g.icon|tojson}};
+</script>
+{% endblock %}
