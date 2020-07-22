@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af022ea3-f773-4c91-a57d-fcd01684f13f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cd1G7Q6EyhxwDT3gL52A0jWQBy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zad6.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="Zad6.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af022ea3-f773-4c91-a57d-fcd01684f13f" name="Default Changelist" comment="" />
+      <created>1590843557288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590843557288</updated>
+      <workItem from="1590843558390" duration="6351000" />
+      <workItem from="1590874567991" duration="12857000" />
+      <workItem from="1590965533488" duration="793000" />
+      <workItem from="1590979554108" duration="24000" />
+      <workItem from="1590979948728" duration="1264000" />
+      <workItem from="1591005849771" duration="2378000" />
+      <workItem from="1591011876565" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="234" key="#Project_Structure" timestamp="1590874347476">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="617" y="234" key="#Project_Structure/0.0.2048.1152@0.0.2048.1152" timestamp="1590874347476" />
+    <state x="479" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590874456268">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="479" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1590874456268" />
+    <state x="830" y="285" key="#com.intellij.ide.util.MemberChooser" timestamp="1590928177843">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="830" y="285" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1590928177843" />
+    <state x="874" y="464" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590850306115">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="874" y="464" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1590850306115" />
+    <state x="855" y="286" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1590930375730">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="855" y="286" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1590930375730" />
+    <state x="805" y="330" key="FileChooserDialogImpl" timestamp="1590934353427">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="805" y="330" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1590934353427" />
+    <state width="2005" height="224" key="GridCell.Tab.0.bottom" timestamp="1591009747825">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="224" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1591009747825" />
+    <state width="2005" height="224" key="GridCell.Tab.0.center" timestamp="1591009747825">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="224" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1591009747825" />
+    <state width="2005" height="224" key="GridCell.Tab.0.left" timestamp="1591009747825">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="224" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1591009747825" />
+    <state width="2005" height="224" key="GridCell.Tab.0.right" timestamp="1591009747825">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="224" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1591009747825" />
+    <state width="2005" height="392" key="GridCell.Tab.1.bottom" timestamp="1590934354360">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1590934354360" />
+    <state width="2005" height="392" key="GridCell.Tab.1.center" timestamp="1590934354360">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.center/0.0.2048.1152@0.0.2048.1152" timestamp="1590934354360" />
+    <state width="2005" height="392" key="GridCell.Tab.1.left" timestamp="1590934354360">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.left/0.0.2048.1152@0.0.2048.1152" timestamp="1590934354360" />
+    <state width="2005" height="392" key="GridCell.Tab.1.right" timestamp="1590934354360">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="392" key="GridCell.Tab.1.right/0.0.2048.1152@0.0.2048.1152" timestamp="1590934354360" />
+    <state x="505" y="150" key="SettingsEditor" timestamp="1590930386022">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="505" y="150" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1590930386022" />
+    <state x="721" y="399" key="com.intellij.ide.util.TipDialog" timestamp="1591011879964">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="721" y="399" key="com.intellij.ide.util.TipDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1591011879964" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Zad6_1$Runner.ic" NAME="Runner Coverage Results" MODIFIED="1590874403195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+package weatherconditions;
+
+//WC = WeatherConditions
+
+enum WeatherType {
+	SUNNY = 0;
+	CLOUDY = 1;
+	RAINY = 2;
+	STORMY = 3;
+	SNOWY = 4;
+}
+
+enum AirQuality {
+	BAD = 0;
+	AVERAGE = 1;
+	GOOD = 2;
+}
+
+message WCReply {
+	string city = 1;
+	repeated WeatherType weatherType = 2;
+	string temperature = 3;
+	string humidity = 4;
+	string pressure = 5;
+	string wind = 6;
+	AirQuality airQuality = 7;
+}
+
+
+message WCRequest {
+	string city = 1;
+	WCReply wCReply = 2;
+}
+
+
+message Filler {
+
+}
+
+
+service WCProvider {
+	rpc ping (Filler) returns (Filler) {}
+	rpc getWC (WCRequest) returns (stream WCReply) {}
+}
